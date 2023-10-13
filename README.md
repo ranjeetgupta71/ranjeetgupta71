@@ -14,7 +14,7 @@ Let's connect and build something amazing together! 🚀
 
 <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
 <h3 align="center">I'm Ranjeet Kumar, a passionate developer interested in creating meaningful and innovative projects. Currently, I'm actively seeking opportunities as a full-stack or front-end developer.</h3>
-<img align="right" alt="Coding gif" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblNqeVlCcWRaNzBjWWhZc3dWOV9ublhIeTFnUXxBQ3Jtc0tsbmNsNTE3SWtTSzQzMzl6bDZHeXUwZzFBdlE2aVkwUzlYTHFHaFRpREo3Q2NwZ2d5ek95blJSZy1XX29Rb19aYWFvaEZfeE82LXZKMEp3ZWJPdHV0RWItYm1zSGpLNTRCTm9mOFRXRW1BOWZtWEVaYw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0"/>
+<img align="right" alt="Coding gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjeetgupta71" alt="ranjeetgupta71" /></a> </p>
 
